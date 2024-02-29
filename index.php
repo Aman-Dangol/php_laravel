@@ -15,6 +15,14 @@
         <button type="submit">add to cart</button>
       </form>
     </section>
+    <!-- list -->
+    <section>
+      <h4>Shopping list here</h4>
+      <ul>
+        <li>Buy 🍺</li>
+        <li>Buy money</li>
+      </ul>
+    </section>
 </main>
 </body>
 </html>
