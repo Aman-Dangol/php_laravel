@@ -1,6 +1,6 @@
 <?php
 session_start();
-$shoppingList =$_SESSION["array"];
+$shoppingList =$_SESSION["array"] ?? [];
 ?>
 
 
